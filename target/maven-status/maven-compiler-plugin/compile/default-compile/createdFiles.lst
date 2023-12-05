@@ -1,0 +1,9 @@
+model\dao\DaoFactory.class
+controller\PrincipalController.class
+model\Contato.class
+module-info.class
+controller\FormularioController.class
+model\dao\ContatoDaoJdbc.class
+model\dao\ConnFactory.class
+model\dao\InterfaceDao.class
+start\projetopadrao\App.class
